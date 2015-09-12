@@ -26,6 +26,19 @@ $(document).ready(function(){
             $(".third").removeClass("ThreeClick");
         }
     });
+
+
+    //$(".menu__handle").bind("click",function(){
+    //    $(".second").addClass("TwoClick");
+    //    $(".first").addClass("OneClick");
+    //    $(".third").addClass("ThreeClick");
+    //}).bind("dblclick",function(){
+    //    $(".second").removeClass("TwoClick");
+    //    $(".first").removeClass("OneClick");
+    //    $(".third").removeClass("ThreeClick");
+    //});
+
+
 });
 
 
